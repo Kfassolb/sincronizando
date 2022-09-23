@@ -1,3 +1,1 @@
-<?php
-    echo "Solucionando conflicto";
-?>
+<h1>hola</h1>
